@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958511533873",
+    "firebase_url": "https://democracia-bolivia.firebaseio.com",
+    "project_id": "democracia-bolivia",
+    "storage_bucket": "democracia-bolivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958511533873:android:889dca61073e13475faa10",
+        "android_client_info": {
+          "package_name": "com.demsbo.etiquetador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958511533873-4q3el8qt468lqtcdm72k2thjos00ninm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demsbo.etiquetador",
+            "certificate_hash": "f96c08c177727cf63eeb7a7386757546a768aa0b"
+          }
+        },
+        {
+          "client_id": "958511533873-vj2cikhg0djn5fr35j8hcfkqnn9mncjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8F7dvqzI1WsGSjOBIsitvHwFe6GhtsVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958511533873-vj2cikhg0djn5fr35j8hcfkqnn9mncjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
